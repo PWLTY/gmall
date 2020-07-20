@@ -19,6 +19,7 @@
     <modules>
         <module>gmall-admin</module>
         <module>gmall-common</module>
+        <module>gmall-pms</module>
     </modules>
 
     <properties>
@@ -30,7 +31,7 @@
         <lombok.version>1.18.8</lombok.version>
         <jjwt.version>0.11.0</jjwt.version>
         <joda.version>2.10.5</joda.version>
-        <redisson.version>3.12.3</redisson.version>
+        <redisson.version>3.12.4</redisson.version>
         <lang3.version>3.9</lang3.version>
     </properties>
 
